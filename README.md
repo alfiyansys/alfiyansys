@@ -3,7 +3,7 @@
 ![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=alfiyansys&repo=alfiyansys&countColorcountColor)
 
 ### Current Jobs & Activities
-- VP of Technology @ PT. Inovasi Teknologi Solusindo
+- VP of Technology @ PT. Inovasi Teknologi Solusindo (Trustmedis)
 
 ### Contact Me
 <a href="https://t.me/alfiyansys"><img src="https://img.shields.io/badge/-Telegram-0077B5?style=flat&logo=Telegram&logoColor=white"/></a>
