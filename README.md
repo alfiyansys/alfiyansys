@@ -32,6 +32,12 @@ When I'm not leading the engineering team, I contribute to open-source infrastru
 
 ---
 
+### 📢 Updates
+
+- **[2026-06-12]** Placeholder — add your announcement or news here
+
+---
+
 ### 🚀 Open Source
 
 - **[Mata Elang](https://github.com/mata-elang-stable)** — Distributed IDS/SIEM platform for real-scale network threat detection
