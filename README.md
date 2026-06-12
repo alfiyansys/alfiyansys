@@ -34,7 +34,7 @@ When I'm not leading the engineering team, I contribute to open-source infrastru
 
 ### 📢 Updates
 
-- **[2026-06-12]** Placeholder — add your announcement or news here
+- **[2026-06-14]** Materi Himit X-Link 2026: [alfiyansys.github.io/himit-xlink-2026](https://alfiyansys.github.io/himit-xlink-2026/)
 
 ---
 
