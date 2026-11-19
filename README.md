@@ -54,3 +54,10 @@ When I'm not leading the engineering team, I contribute to open-source infrastru
 ---
 
 <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=alfiyansys&show_icons=false&theme=dark&include_all_commits=true&count_private=true&layout=compact"/>
+
+<a href="https://gitscore.live/alfiyansys">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://gitscore.live/api/badge/alfiyansys?style=card&theme=dark" />
+    <img src="https://gitscore.live/api/badge/alfiyansys?style=card" alt="GitScore for alfiyansys" />
+  </picture>
+</a>
